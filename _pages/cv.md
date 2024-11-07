@@ -21,16 +21,13 @@ Work experience
   * Argonne National Laboratory
   * Supervisor: Bruce Hamilton
     
+    
 * Aug 2018- Aug 2020: Research Assistant
   * Economic and Social Research Institute Dublin, Ireland
   * Project: Energy Systems Integration Partnership Program (ESIPP)
   * Supervisor: Professor John Curtis
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+
 Skills
 ======
 * Skill 1
