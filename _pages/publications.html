@@ -11,29 +11,10 @@ author_profile: true
 
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
-
-<h2>My Publications</h2>
 <ul>
+  <i></i>
+  Gaur, A.S., Fitiwi, D.Z. and Curtis, J., 2021. 
+  <a href="https://doi.org/10.1016/j.erss.2020.101764" target="_blank">Heat pumps and our low-carbon future: A comprehensive review. </a> Energy Research & Social Science, 71, p.101764.
   <li>
     Gaur, A.S., Das, P., Jain, A., Bhakar, R., and Mathur, J., 2019. 
     <a href="https://www.sciencedirect.com/science/article/pii/S2211467X19300768" target="_blank">Long-term energy system planning considering short-term operational constraints.</a>
