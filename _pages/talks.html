@@ -5,22 +5,12 @@ permalink: /talks/
 author_profile: true
 ---
 
- <h1>Talk 1 on Relevant Topic in Your Field</h1>
-            <p><strong>Collection:</strong> talks</p>
-            <p><strong>Type:</strong> Talk</p>
-            <p><strong>Permalink:</strong> <a href="/talks/2012-03-01-talk-1">/talks/2012-03-01-talk-1</a></p>
-            <p><strong>Venue:</strong> UC San Francisco, Department of Testing</p>
-            <p><strong>Date:</strong> March 1, 2012</p>
-            <p><strong>Location:</strong> San Francisco, California</p> 
-<h2>
-  Implications of Power-to-Heat on Transmission Expansion Needs in Ireland​  
-</h2>
-#{% if site.talkmap_link == true %}
+{% if site.talkmap_link == true %}
 
-#<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
+<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
 
-#{% endif %}
+{% endif %}
 
-#{% for post in site.talks reversed %}
-#  {% include archive-single-talk.html %}
-#{% endfor %}
+{% for post in site.talks reversed %}
+  {% include archive-single-talk.html %}
+{% endfor %}
