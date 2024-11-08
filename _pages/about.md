@@ -11,8 +11,13 @@ I am currently a postdoctoral researcher at the Center for Energy, Environmental
 
 I have experience working with multiple energy systems optimization frameworks, developing simulation models, and developing methods to operationalize available data to gain insights into energy demand patterns. I have also developed sustainable decarbonization pathways to inform climate action policy at the national level and have experience modeling policy measures using energy systems optimization models to inform mitigation strategies. I am particularly interested in energy systems modeling research, exploring global and national energy transition scenarios, and analyzing their impact on the Sustainable Development Goals (SDGs).
 
-
-
+Main research areas & interests
+======
+* Energy systems modeling
+* National decarbonization pathways
+* Role of demand-side mitigation
+* Energy policy
+* Data & methodologies to improve insights from energy system modeling
 
 
 
