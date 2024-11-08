@@ -13,11 +13,10 @@ I have experience working with multiple energy systems optimization frameworks, 
 
 Main research areas & interests
 ======
-* Energy systems modeling
+* Data & methodologies to improve insights from energy system modeling
 * National decarbonization pathways
 * Role of demand-side mitigation
 * Energy policy
-* Data & methodologies to improve insights from energy system modeling
-
+  
 
 
