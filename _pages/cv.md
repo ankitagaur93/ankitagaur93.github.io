@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[Download Full CV](/CV_AG_11_2024.pdf)
+[Download Full CV](CV_AG_11_2024.pdf)
 {% include base_path %}
 
 Education
